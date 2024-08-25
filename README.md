@@ -39,6 +39,8 @@ This project is a Streamlit application that allows users to query a SQL databas
    Create a `.env` file in the root directory of the project and add your API keys and database credentials:
 
    ```
+   GOOGLE_API_KEY=<your-google-api-key>
+   OPENAI_API_KEY=<your-openai-api-key>
    DB_USER=<your-database-username>
    DB_PASSWORD=<your-database-password>
    DB_HOST=<your-database-host>
